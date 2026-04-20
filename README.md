@@ -40,7 +40,7 @@ Covers server configuration and environment setup, including:
 
 - Build consistent hands-on practice habits for ITNSA competency
 - Document configurations and solutions for future reference
-- Prepare for LKS / WorldSkills competition
+- Prepare for LKS / Other Competition
 
 ---
 
