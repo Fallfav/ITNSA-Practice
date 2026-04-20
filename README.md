@@ -50,7 +50,6 @@ Covers server configuration and environment setup, including:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=flat&logoColor=white)
 
 ---
 
