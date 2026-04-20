@@ -46,10 +46,29 @@ Covers server configuration and environment setup, including:
 
 ## 🛠️ Tools & Technologies
 
-![Cisco]([https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white])
-![Linux]([https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black](https://en.wikipedia.org/wiki/Tux_%28mascot%29))
-![Windows Server](https://aidanfinn.com/?p=21047)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=flat&logoColor=white)
+
+---
+
+## 📌 How to Navigate
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/<your-username>/ITNSA-Practice.git
+   ```
+
+2. Switch to a specific branch
+   ```bash
+   git checkout Cisco-Practice
+   # or
+   git checkout Server-Environment-Practice
+   ```
+
+3. Explore the folder structure and follow the documentation inside each branch.
 
 ---
 
